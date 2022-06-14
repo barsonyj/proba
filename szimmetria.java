@@ -34,9 +34,6 @@ public class Ablak extends JFrame {
 	private boolean elso = true;
 	private int ei=0, es=0, eo=0;
 
-	/**
-	 * Launch the application.
-	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -51,9 +48,6 @@ public class Ablak extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
 	public Ablak() {
 		setIconImage(Toolkit.getDefaultToolkit().getImage(Ablak.class.getResource("/icons/symmetry.png")));
 		setTitle("Szimmetria");
