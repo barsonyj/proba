@@ -1,0 +1,17 @@
+
+ Hozzuk létre a mintán látható grafikus felületet!
+ - Minkét oldalon 4x4 darab 96x96 képpontos kép (kep00-15.png) található!
+   Induláskor a két oldal képei pontosan egymás tükörképei legyenek!
+ - Ha a középsõ Kever gombot megnyomjuk,
+   akkor mindkét oldal képei (a saját oldalukon) keveredjenek össze!
+   Középen, lent, látszódjon hány kép maradt szimmetrikusan párban
+   a vele megegyezõvel a tizenhatból, és ez hány százalék!
+ - Az egér alatti kép körül legyen vékony piros keret!
+ - Kattintáskor zöld háttérrel jegyezze meg az adott elemet!
+   Újra kattintva:
+   - Ha ugyanazon az oldalon történt a kattintás,
+     akkor cserélje meg a két elemet, és frissítse a statisztikát!
+   - Ha a másik oldalon kattintottunk,
+     akkor jelölje meg azt zöld háttérrel, de NE történjen csere!
+
+ A cél, hogy újra 100%-ban szimmetrikus legyen az elhelyezés! :)
